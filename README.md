@@ -4,9 +4,7 @@ I'm working as a data scientist --- Ph.D. in Computational Neuroscience
 
 
 
-- 🔭 I’m currently working on reproducible Machine Learning Approach to answer quantitive Business Questions
-- 🌱 I’m currently focusing on ML for Time Series Analyses
-
+- 🔭 I’m currently focusing on reproducible Machine Learning approaches to solve quantitive business problems and amplify decision-making
 
 
 
