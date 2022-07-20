@@ -1,10 +1,10 @@
 # read "about" me
 
-I'm working as a data scientist --- Ph.D. in Computational Neuroscience
+I'm a data scientist --- Ph.D. in Computational Neuroscience
 
 
 
-- 🔭 I’m currently focusing on reproducible Machine Learning approaches to solve quantitive business problems and amplify decision-making
+- 🔭 Currently, I am focusing on reproducible Machine Learning approaches to solve quantitive business problems and amplify data-driven decision-making
 
 
 
