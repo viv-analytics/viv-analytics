@@ -1,27 +1,64 @@
 # read "about" me
 
-  I'm a data scientist --- Ph.D. in Computational Neuroscience
-  <br>
-  - 🔭 Currently, I am focusing on reproducible Machine Learning approaches to solve quantitive business problems and **amplify data-driven decision-      making**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align = "center">
+  <a href = "https://www.linkedin.com/in/vivian-r-steiger/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+</div>
+
+<br>
+
+<div align="center">
+  
+  <p>
+  <h3>About me: </h3>
+    <br>
+    :man_technologist: I'm working as a data scientist
+    <br>
+    :microscope: Ph.D. in Computational Neuroscience
+    <br>
+    <br>
+    🔭 I'm focusing on reproducible Machine Learning approaches to solve quantitive business problems
+     <br>
+    🥅 My goal is to amplify data-driven decision-making
+  </p>
+</div>
+
+  
 
 
 <br>
 <br>
 
-<div> 
-  <img src="https://user-images.githubusercontent.com/100348646/180216095-e42749c9-2a9c-4a24-8c2e-9225e761fee8.svg" height="50" alt="R"/>
-  <img src="https://user-images.githubusercontent.com/100348646/180217248-02155e22-3009-4662-a1e7-53afac594e51.png" height="50" alt="PostgreSQL"/>
-  <img src="https://user-images.githubusercontent.com/100348646/180220897-cca306a1-5bcb-4f39-8686-e24b9d9a0dbe.png" height="50" alt="Tableau"/>
+<div id="tools" align="center"> 
+  <p>
+    <h3>:hammer_and_wrench: Languages and Tools:
+    <br>
+  </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" height="50"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/100348646/180220897-cca306a1-5bcb-4f39-8686-e24b9d9a0dbe.png" title="Tableau" alt="Tableau" height="50"/>&nbsp;
 
   <br>
 </div>
 
 <br>
 <br>
-<br>
-<hr>
+<div id="stats" align="center">
+  <p>
+    <h3>:fire: Stats:
+    <br>
+  </p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=viv-analytics&show_icons=true&theme=cobalt"/>
+</div
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viv-analytics&show_icons=true&theme=cobalt)
 
 
 <!---
