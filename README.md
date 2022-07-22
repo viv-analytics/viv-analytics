@@ -50,6 +50,18 @@
 
 <br>
 <br>
+<div id="R-Packages" align="center">
+  <p>
+    <h3>:package: R-Packages:
+    <br>
+  </p>
+  <img src="https://github.com/stufield/hex-images/blob/master/tidyverse_all.png" title="Tidyverse" alt="Tidyverse" height="260"/>&nbsp;
+  <img src="https://github.com/topepo/an-introduction-to-tidymodels/blob/57888b66c63a27581e5c349f1f60cdfac53720af/images/hex_wall.png" title="Tidymodels" alt="Tidymodels" height="260"/>&nbsp;
+  
+</div
+
+<br>
+<br>
 <div id="stats" align="center">
   <p>
     <h3>:fire: Stats:
