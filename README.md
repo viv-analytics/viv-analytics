@@ -16,7 +16,6 @@
   
   <p>
   <h3>About me: </h3>
-    <br>
     :man_technologist: I'm working as a data scientist
     <br>
     <br>
