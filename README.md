@@ -4,16 +4,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align = "center">
-  <a href = "https://www.linkedin.com/in/vivian-r-steiger/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-</div>
-
-<br>
 
 <div align="center">
-  
   <p>
   <h3>About me: </h3>
     :man_technologist: I'm working as a data scientist
@@ -29,9 +21,17 @@
   </p>
 </div>
 
-  
+<br>
 
-
+<div id="badges" align = "center">
+  <a href = "https://www.linkedin.com/in/vivian-r-steiger/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href = "https://public.tableau.com/app/profile/viv8803">
+    <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a> 
+</div>
+ 
 <br>
 <br>
 
@@ -46,11 +46,12 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" height="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/100348646/180220897-cca306a1-5bcb-4f39-8686-e24b9d9a0dbe.png" title="Tableau" alt="Tableau" height="50"/>&nbsp;
 
-  <br>
+<br>
 </div>
 
 <br>
 <br>
+
 <div id="R-Packages" align="center">
   <p>
     <h3>:package: R-Packages:
@@ -59,8 +60,6 @@
   <img src="https://github.com/stufield/hex-images/blob/master/tidyverse_all.png" title="Tidyverse" alt="Tidyverse" height="200"/>&nbsp;
   <img src="https://github.com/topepo/an-introduction-to-tidymodels/blob/57888b66c63a27581e5c349f1f60cdfac53720af/images/hex_wall.png" title="Tidymodels" alt="Tidymodels" height="200"/>&nbsp;
   <img src="https://github.com/easystats/easystats/blob/main/man/figures/logo_wall.png" title="EasyStats" alt="EasyStats" height="200"/>&nbsp;
-  
-  
 </div
 
 <br>
