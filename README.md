@@ -19,7 +19,8 @@
     <br>
     :man_technologist: I'm working as a data scientist
     <br>
-    :microscope: Ph.D. in Computational Neuroscience
+    <br>
+    :microscope: Ph.D. in Computational Neuroscience | M.Sc. in Cognitive Psychology and Neuroscience
     <br>
     <br>
     🔭 I'm focusing on reproducible Machine Learning approaches to solve quantitive business problems
