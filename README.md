@@ -64,7 +64,9 @@
 
 <br>
 <br>
-<div id="stats" align="center">
+
+ <!---
+  <div id="stats" align="center">
   <p>
     <h3>:fire: Stats:
     <br>
@@ -72,7 +74,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=viv-analytics&show_icons=true&theme=cobalt"/>
 </div
-
+---!> 
 
 
 <!---
