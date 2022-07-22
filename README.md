@@ -55,8 +55,10 @@
     <h3>:package: R-Packages:
     <br>
   </p>
-  <img src="https://github.com/stufield/hex-images/blob/master/tidyverse_all.png" title="Tidyverse" alt="Tidyverse" height="260"/>&nbsp;
-  <img src="https://github.com/topepo/an-introduction-to-tidymodels/blob/57888b66c63a27581e5c349f1f60cdfac53720af/images/hex_wall.png" title="Tidymodels" alt="Tidymodels" height="260"/>&nbsp;
+  <img src="https://github.com/stufield/hex-images/blob/master/tidyverse_all.png" title="Tidyverse" alt="Tidyverse" height="200"/>&nbsp;
+  <img src="https://github.com/topepo/an-introduction-to-tidymodels/blob/57888b66c63a27581e5c349f1f60cdfac53720af/images/hex_wall.png" title="Tidymodels" alt="Tidymodels" height="200"/>&nbsp;
+  <img src="https://github.com/easystats/easystats/blob/main/man/figures/logo_wall.png" title="EasyStats" alt="EasyStats" height="200"/>&nbsp;
+  
   
 </div
 
