@@ -58,13 +58,12 @@
     <br>
   </p>
    <a href = "https://tidyverse.tidyverse.org">
-    <img src="https://github.com/stufield/hex-images/blob/master/tidyverse_all.png" title="Tidyverse" alt="Tidyverse" height="200"/>&nbsp;
+    <img src="https://github.com/stufield/hex-images/blob/master/tidyverse_all.png" title="Tidyverse" alt="Tidyverse" height="280"/>&nbsp;
   </a>
    <a href = "https://tidymodels.tidymodels.org">
     <img src="https://github.com/topepo/an-introduction-to-tidymodels/blob/57888b66c63a27581e5c349f1f60cdfac53720af/images/hex_wall.png" title="Tidymodels" alt="Tidymodels" height="200"/>&nbsp;
-  </a>
-   <a href = "https://easystats.github.io/easystats/">
-    <img src="https://github.com/easystats/easystats/blob/main/man/figures/logo_wall.png" title="EasyStats" alt="EasyStats" height="200"/>&nbsp;
+  <a href = "https://easystats.github.io/easystats/">
+    <img src="https://user-images.githubusercontent.com/100348646/183250115-1ad44b0f-351c-4190-a66d-bf65d8f9a444.png" title="EasyStats" alt="EasyStats" height="150"/>&nbsp;
   </a>
 </div
 
