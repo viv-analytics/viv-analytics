@@ -30,6 +30,9 @@
   <a href = "https://public.tableau.com/app/profile/viv8803">
     <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a> 
+  <a href = "https://twitter.com/viv_analytics">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
  
 <br>
