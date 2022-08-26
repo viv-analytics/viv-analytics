@@ -17,7 +17,7 @@
     🔭 I'm focusing on reproducible Machine Learning approaches to solve quantitive business problems
      <br>
      <br>
-    🥅 My goal is to amplify data-driven decision-making using data science
+    🥅 My goal is to amplify data-driven decision-making using data "and" science
   </p>
 </div>
 
