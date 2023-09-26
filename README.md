@@ -14,7 +14,7 @@
     :microscope: Ph.D. in Computational Neuroscience | M.Sc. in Cognitive Psychology and Neuroscience
     <br>
     <br>
-    🔭 I'm focusing on reproducible Machine Learning approaches to solve quantitive business problems
+    🔭 I'm focusing on reproducible and responsible Machine Learning approaches to solve quantitive business problems
      <br>
      <br>
     🥅 My goal is to enhance decision-making using data "and" science
